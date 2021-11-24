@@ -1,3 +1,4 @@
+ql repo https://github.com/curtinlv/JD-Script.git "jd_"
 # JD-Script
 ##  目录结构
     JD-Script/                  #JD-Script仓库
